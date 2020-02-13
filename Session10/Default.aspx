@@ -5,12 +5,12 @@
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <asp:Panel ID="PanelAddCustomer" runat="server">
         <h1>
-            New Customers
+            New Customer
         </h1>
         <table>
             <tr>
                 <td>
-                    Customer Names
+                    Customer Name
                 </td>
                 <td>
                     <asp:TextBox ID="TextBoxNewCustomerName" runat="server"></asp:TextBox>
@@ -27,7 +27,7 @@
         <table>
             <tr>
                 <td>
-                    Customer Names
+                    Customer Name
                 </td>
                 <td>
                     <asp:TextBox ID="TextBoxEditCustomerName" runat="server"></asp:TextBox>
