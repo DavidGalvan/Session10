@@ -10,7 +10,7 @@
         <table>
             <tr>
                 <td>
-                    Customer Name
+                    Customer Names
                 </td>
                 <td>
                     <asp:TextBox ID="TextBoxNewCustomerName" runat="server"></asp:TextBox>
